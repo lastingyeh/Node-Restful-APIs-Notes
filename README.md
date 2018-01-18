@@ -18,8 +18,8 @@
 
     yarn install
 
-#### reference
+#### reference && thanks
 
-1. [Youtube Media](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q)
+1. [Youtube Media by academind](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q)
 
-2. [Github Code](https://github.com/academind/node-restful-api-tutorial/tree/13-controllers)
+2. [Github by academind](https://github.com/academind/node-restful-api-tutorial/tree/13-controllers)
